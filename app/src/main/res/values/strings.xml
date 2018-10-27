@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Prova 1</string>
+    <string name="contagem">Contagem:</string>
+    <string name="txt2">0</string>
+    <string name="hcont"></string>
+    <string name="bt1Text">+1</string>
+    <string name="bt2Text">-1</string>
+    <string name="bt3Text">ZERAR CONTAGEM</string>
+    <string name="textview1">Contagem:</string>
+    <string name="ed1Text">0</string>
+</resources>
